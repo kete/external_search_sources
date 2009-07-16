@@ -2,8 +2,9 @@
 
 This Rails Engine provides an interface, helpers, and fixture data for pulling search results from external sources via RSS feeds.
 
-External Search Sources was developed for the [Kete](http://kete.net.nz) open source Ruby on Rails application by [Katipo Communications, Ltd.](http://katipo.co.nz/) and was funded by [Digital New Zealand](http://digitalnz.org/).
+External Search Sources was developed for the [Kete](http://kete.net.nz) open source Ruby on Rails application by [Katipo Communications, Ltd.](http://katipo.co.nz) and was funded by [Digital New Zealand](http://digitalnz.org).
 
+It is built upon work originally funded by Auckland City Libraries (http://www.aucklandcitylibraries.com).
 
 == Requirements
 
@@ -194,6 +195,6 @@ This engine was designed, implemented, and tested by Kieran Pilkington ( http://
 
 Walter McGinnis ( http://github.com/walter ) did the system design and gave feedback on the engine as it was being developed.
 
-The original concept of "conceptual search" was conceived by Paul Reynolds of McGovern Online (http://www.mcgovern.co.nz/).
+The original concept of "conceptual search" was conceived by Paul Reynolds of McGovern Online (http://www.mcgovern.co.nz).
 
 Current maintainers: Kieran Pilkington and Walter McGinnis

@@ -195,6 +195,6 @@ This engine was designed, implemented, and tested by Kieran Pilkington ( http://
 
 Walter McGinnis ( http://github.com/walter ) did the system design and gave feedback on the engine as it was being developed.
 
-The original concept of "conceptual search" was conceived by Paul Reynolds of McGovern Online (http://www.mcgovern.co.nz).
+The original concept of "contextual search" is from Paul Reynolds of McGovern Online (http://www.mcgovern.co.nz).
 
 Current maintainers: Kieran Pilkington and Walter McGinnis

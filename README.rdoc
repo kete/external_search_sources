@@ -10,6 +10,7 @@ External Search Sources was developed for the [Kete](http://kete.net.nz) open so
 * Rails 2.3 or higher - Prior versions will not work because of incomplete engine support or missing I18n support
 * ActiveScaffold plugin installed for admin interface to work (http://github.com/activescaffold/active_scaffold)
 * Kete version of the Feedzirra gem (http://github.com/kete/feedzirra)
+  (source timeout support requires version 0.0.16.1 or higher)
 
 == Assumptions (configurable, see Configuration section for details)
 
